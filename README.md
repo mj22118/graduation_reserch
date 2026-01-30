@@ -11,7 +11,7 @@
 * Select  : 棋譜の抽出
 
 ## 実行環境
-* OS: Mac OS 
+* OS: macOS Sonoma 14.8
 * 言語: Python 3.9.6
 * ライブラリ:
   chardet(5.2.0)，
